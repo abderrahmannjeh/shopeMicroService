@@ -1,0 +1,5 @@
+package org.compte_workshop.Resource;
+
+public class CompteService {
+
+}

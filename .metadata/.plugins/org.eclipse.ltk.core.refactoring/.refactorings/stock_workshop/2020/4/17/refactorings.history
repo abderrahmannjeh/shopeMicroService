@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;org.shope.Resource&apos; to &apos;org.stock.Resource&apos;&#x0D;&#x0A;- Original project: &apos;stock_workshop&apos;&#x0D;&#x0A;- Original element: &apos;stock_workshop/src/main/java/org.shope.Resource&apos;&#x0D;&#x0A;- Renamed element: &apos;stock_workshop/src/main/java/org.stock.Resource&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;org.shope.Resource&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;org.shope.Resource" name="org.stock.Resource" qualified="false" references="true" stamp="1587627769754" textual="false" version="1.0"/>
+</session>

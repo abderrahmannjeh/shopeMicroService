@@ -1,0 +1,12 @@
+package org.stock.Resource;
+
+
+public class ProduitService {
+	
+	
+	public Produit findByCode(String code)
+	{
+		return Produit.find("code", code).firstResult();
+	}
+
+}

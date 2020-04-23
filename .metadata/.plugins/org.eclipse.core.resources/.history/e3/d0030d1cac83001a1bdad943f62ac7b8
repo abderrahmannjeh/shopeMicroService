@@ -1,0 +1,28 @@
+package org.compte_workshop.Resource;
+
+import javax.persistence.Entity;
+
+import io.quarkus.hibernate.orm.panache.PanacheEntity;
+
+@Entity
+public class Compte extends PanacheEntity {
+	
+	
+	public String client;
+	public Long rib;
+	public float mantant;
+	public Compte(String client, Long rib, float mantant) {
+		super();
+		this.client = client;
+		this.rib = rib;
+		this.mantant = mantant;
+	}
+	@Override
+	public String toString() {
+		return "Compte [client=" + client + ", rib=" + rib + ", mantant=" + mantant + "]";
+	}
+	
+	
+	
+
+}

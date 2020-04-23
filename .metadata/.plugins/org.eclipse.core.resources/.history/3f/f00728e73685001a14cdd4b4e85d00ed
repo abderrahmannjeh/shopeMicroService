@@ -1,0 +1,5 @@
+package org.stock.Resource;
+
+public class ProduitService {
+
+}

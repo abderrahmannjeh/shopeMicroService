@@ -1,0 +1,8 @@
+package org.shope.Resource;
+
+import javax.ws.rs.Path;
+
+@Path("/stock")
+public interface ShopeService {
+
+}

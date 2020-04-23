@@ -1,0 +1,4 @@
+# Configuration file
+# key = value
+quarkus.http.port=8090
+org.shope.Resource.ShopeService/mp-rest/url="http://localhost:8088/api"

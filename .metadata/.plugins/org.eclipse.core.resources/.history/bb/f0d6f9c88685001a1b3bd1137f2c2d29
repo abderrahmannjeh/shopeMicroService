@@ -1,0 +1,5 @@
+# Configuration file
+# key = value
+quarkus.http.port=8090
+org.shope.Resource.ShopeService/mp-rest/uri="http://localhost:8088/api"
+org.shope.Resource.ShopeService/mp-rest/scope="javax.inject.Singleton"

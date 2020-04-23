@@ -1,0 +1,5 @@
+# Configuration file
+# key = value
+quarkus.http.port=8087
+quarkus.hibernate-orm.database.generation=drop-and-create
+quarkus.hibernate-orm.log.sql=true
